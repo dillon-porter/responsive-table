@@ -2,3 +2,4 @@
 Responsive Table with some of the Toronto Maple Leafs Roster from 2019 - 2020 season. 
 
 HTML, CSS, and JavaScript(ES5)
+-added a sort button function to sort names alphabetically.
